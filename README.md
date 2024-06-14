@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a recently graduated Front End Developer lookign for new experiences and challenges.
+I'm a recently graduated Front End Developer looking for new experiences and challenges.
 
 ## I have (among other) knowledge in:
 - JavaScript
@@ -28,6 +28,6 @@ I'm a recently graduated Front End Developer lookign for new experiences and cha
 - Wordpress
 - Agile workmethods
 
-And a  lot more! I thrive when learning new things and being challenged.
-# Feel free to reach out!
+And a  lot more!
+# Feel free to reach out! ✨
 
