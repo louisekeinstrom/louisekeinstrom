@@ -28,6 +28,6 @@ I'm a recently graduated Front End Developer lookign for new experiences and cha
 - Wordpress
 - Agile workmethods
 
-  And a  lot more! I thrive when learning new things and being challenged.
-  # Feel free to reach out!
+And a  lot more! I thrive when learning new things and being challenged.
+# Feel free to reach out!
 
