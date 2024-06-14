@@ -15,5 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Front End student at Medieinstitutet
+I'm a recently graduated Front End Developer lookign for new experiences and challenges.
+
+## I have (among other) knowledge in:
+- JavaScript
+- TypeScript
+- React.js
+- React Native
+- CSS/SCSS
+- HTML
+- REST-api:s
+- Wordpress
+- Agile workmethods
+
+  And a  lot more! I thrive when learning new things and being challenged.
+  # Feel free to reach out!
 
