@@ -32,5 +32,5 @@ And a  lot more!
 # Feel free to reach out! ✨
 
 ## Links to previous works
-<a href="https://scintillating-paletas-65af7f.netlify.app/">Star Wrs API</a>
+<a href="https://scintillating-paletas-65af7f.netlify.app/">Star Wars API</a>
 
