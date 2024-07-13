@@ -31,7 +31,7 @@ I'm a recently graduated Front End Developer looking for new experiences and cha
 And a  lot more!
 
 ### Links to previous works
-<a href="https://scintillating-paletas-65af7f.netlify.app/">Star Wars API</a>
+<a href="https://scintillating-paletas-65af7f.netlify.app/">Star Wars API</a><br/>
 <a href="https://sparkly-pony-b8e9d2.netlify.app/">Resumé in JS & CSS (First project)</a>
 # Feel free to reach out! ✨
 
