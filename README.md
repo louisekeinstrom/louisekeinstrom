@@ -32,7 +32,7 @@ And a  lot more!
 
 ### Links to previous works
 <a href="https://scintillating-paletas-65af7f.netlify.app/">Star Wars API</a><br/>
-<a href="https://sparkly-pony-b8e9d2.netlify.app/">Resumé in JS & CSS (First project)</a>
+<a href="https://sparkly-pony-b8e9d2.netlify.app/">Resumé in JS & CSS (First project)</a><br/>
 <a href="https://visionary-cranachan-683585.netlify.app/">Movie Database built from The Movie Database API</a>
 # Feel free to reach out! ✨
 
