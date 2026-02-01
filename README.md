@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a recently graduated Front End Developer looking for new experiences and challenges.
+I'm a Front End Developer looking for new experiences and challenges.
 
 ## I have (among other) knowledge in:
 - JavaScript
